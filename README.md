@@ -1,6 +1,6 @@
 # private_scripts
 
-Description: simple bash script to install a bunch of applications on (ideally) a linux machine, edits can be made according to your taste too.
+Description: simple bash script to install a bunch of applications on (ideally) a linux machine that's freshly out of the box or been recently formatted, edits can be made according to your taste too.
 
 Before you do anything with my script, clone or download the bash .sh file and then make it executable.
 
