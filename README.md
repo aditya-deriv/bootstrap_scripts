@@ -1,4 +1,4 @@
-# private_scripts
+# Useful_bootstrap_scripts
 
 Description: simple bash script to install a bunch of applications on (ideally) a linux machine that's freshly out of the box or been recently formatted, edits can be made according to your taste too.
 
